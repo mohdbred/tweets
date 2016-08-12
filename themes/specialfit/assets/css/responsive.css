@@ -1,0 +1,159 @@
+
+@media  (min-width: 981px)  and (max-width:1167px){
+ .header-wrap nav > ul > li > a, .header-wrap nav > ul li li.sfhover{ padding: 10px 8px 9px; font-size: 14px;}
+ .header-wrap .col-sm-3:last-child{ width: 25%;}
+ .timer_box{ margin: 0 15px 0 0; }
+ .form-in{ width: 70%;}
+ .rdm-link{ width: 100%;}
+ .box-wrap .img{ width: 28%;}
+ .question-section{ width: 86%;}
+}
+
+@media  (max-width: 800px){
+  #logo{ width: 77%;}   
+ .header-wrap nav > ul.left{ text-align: left;}
+ .header-wrap nav > ul > li > a, .header-wrap nav > ul li li.sfhover{  font-size: 16px;}
+ .header-login a{ font-size: 14px;}
+ .banner-text h3{ font-size: 23px;}
+ .banner-text{ left: 54px;}
+ .sub-heading{ font-size: 16px; background-position: 183px 0;}
+ .inner-heading{ font-size: 26px;}
+ .content-bottom h4{ font-size: 16px;}
+ .sub-inner-head{ font-size: 18px;}
+ .list-ul li{ font-size: 14px;} 
+ .info .icon-span{ font-size: 35px;}   
+ 
+}
+
+@media (min-width: 768px) and (max-width:980px) {
+ #logo{ width: 100%;}   
+ .header-wrap nav > ul.left{ text-align: left;}
+ .header-wrap nav > ul > li > a, .header-wrap nav > ul li li.sfhover{ padding: 10px 6px 9px; font-size: 12px;} 
+ .row-sm [class*="col-sm"]{ padding-left:15px; padding-right: 15px;}
+ .row-sm { margin-left: -15px; margin-right: -15px;}
+ header{ height: auto;}
+ .feature-video-wrp{ padding: 40px 0;}
+ .feature-video{ margin: 27px 0 0;}
+ .our-courses-wrp{ padding: 40px 0 0; height: 608px;}
+ .box-wrap .img{ width: 30%;}
+ .box-wrap .info{ width: 65%;}
+ .box-wrap .info p{ font-size: 13px;}
+ .box-wrap .sub-inner-head{ font-size: 14px; margin-bottom: 4px;}
+ .question-section{ width: 80%;}
+ .footer-top{ padding: 40px 0;}
+ .footer-head{ font-size: 14px;}
+ .footer-link li{ padding: 3px 0;}
+ .footer-link li a, .footer-address p, .footer-address a, .footer-address span{ font-size: 13px;}
+ .question-wrap{ padding-top: 12px;}
+ .question-wrap p{ margin-bottom: 0;}
+ #tab-1::before{left: 10%;}
+ #tab-2::before{ left: 35.4%;}
+ #tab-3::before{ left: 60.3%;}
+ #tab-4::before{ left: 86%;}
+ #tab-2, #tab-3, #tab-4{ padding: 35px 24px;}
+ .span-select::after{ height: 39px;}
+ */**login**/
+ .form-wrap{ padding: 35px 30px;}
+ .inner-box {width: 90%;}
+ .register-in{ width: 64.2%;}
+ .box-in{ padding: 0;}
+ .contact-form .form-in{ width: 100%;}
+ .inner-bg{ padding: 69px 0;}
+ 
+}
+
+
+@media (max-width:767px){
+    .header-bottom .col-sm-3{width: 100%;}
+    .header-bottom .col-sm-9{width: 100%}
+    .sb-search{top: -6px}
+    .dropdown-menu{top: 3px}
+    .paymeant-icon{text-align: center}
+header{ height: auto;}    
+#logo{ width: 100%; text-align: center;}
+.header-left{ text-align: center;}
+.header-login{ text-align: center; margin: 6px 0;}
+.main-heading{ font-size: 24px;}
+.sub-heading{ font-size: 14px;}
+.tab-section{ height: auto;}
+.feature-wrap{ padding: 30px 0 10px;}
+.footer-wrap{ text-align: center;}
+.footer-head{ margin: 15px 0 17px;}
+.footer-top{ padding: 20px 0 30px;}
+.policy ul li{ padding: 3px 0; width: 100%;}
+.paypal{ text-align: center; padding-top: 10px;}
+nav{ display: none;}
+.mobile-menu{ display: block; }
+.dropdown-menu{ background: transparent; display: inline-block; height: 23px; margin: 0; min-width: 29px;padding: 0; cursor: pointer; left: 15px;}
+.dropdown-menu span{background: #fff; display: block; height: 2px; margin-top: 5px; width: 26px;}
+.dropdown-menu span:first-child{ margin: 0;}
+.mobile-nav{ background: #000; padding: 10px; top: 26px; left: 0; display: none; position: absolute; width: 100%; box-shadow: 0 0 1px 1px #333 inset; text-align: left;}
+.mobile-nav > li { padding: 4px 0; border-bottom: 1px solid #333;}
+.mobile-nav > li:last-child{ border-bottom: 0;}
+.mobile-nav a { display: inline-block; color: #d1d1d1; font-size: 14px;}
+.mobile-nav a:hover{ color: #fff;}
+.feature-video-wrp{ padding: 30px 0;}
+.our-courses-wrp{ padding: 30px 0 0; height: auto;}
+.tab-form li.compny, .tab-form li.ciyt, .tab-form li.state, .tab-form li.zip-code, .tab-form li.insurance{ width: 100%;}
+ .tab-form li.specialties, .tab-form li.conditions, .tab-form li.procedures, .tab-form li.ciyt, .tab-form li.speciality, 
+ .tab-form li.therapist, .tab-form li.gym, .tab-form li.amenities, .tab-form li.wellness{ width: 100%; margin-top: 17px;}
+ #tab-1::before, #tab-2::before, #tab-3::before, #tab-4::before{ left: 50%; margin-left: -17px;}
+ #tab-2, #tab-3, #tab-4{ padding: 35px 24px;}
+ #tab-2 li:nth-child(2), #tab-2 li:nth-child(3), #tab-3 li:nth-child(2), #tab-3 li:nth-child(3), #tab-4 li:nth-child(2), #tab-4 li:nth-child(3){ width: 100%;}
+ .tab-content ul li{ margin-right: 0;}
+.question-wrap, .team-image{ text-align: center;}
+ .tele-image{ margin: 0 0 10px; width: 100%;}
+ .footer-head{ font-size: 18px;}
+ .footer-link li{ padding: 3px 0;}
+ .feature-video .video{ width: 100%;}
+ .feature-video{ margin: 30px 0 0;}
+ .feature-detail ul li{ width: 50%;}
+ 
+ /**login**/
+ .form-wrap{ padding: 20px;}
+ .inner-box{ width: 100%; margin-bottom: 30px;}
+ .register-in{ width: 100%;}
+ .register-in td{ display: block; padding-bottom: 10px;}
+ .register-in label.empty{ display: none;}
+ .register-in .button-set{ width: 100%; text-align: center;}
+ .box-in{ padding: 0;}
+ .inner-bg { padding: 69px 0;}
+ .contact-form .form-in{ width: 100%;}
+ .contact-logo {margin-bottom: 20px;margin-top: 26px;}
+ .register-in .btn.btn-primary{ margin-left: 0; margin-bottom: 15px;}
+ .account-wrap .col-main {margin-left: 0px;}
+ 
+}
+
+@media (max-width: 640px){
+.inner-bg{padding: 54px 0;} 
+
+}
+
+
+@media (min-width: 480px) and (max-width: 640px){
+ .form-in{ width: 100%;}     
+}
+@media(max-width: 480px){
+.form-in{ width: 100%;} 
+.register-in{ width: 100%;}
+.register-in td{ display: block; padding-bottom: 10px;}
+.heading-bg{ font-size: 30px;}
+ .feature-detail ul li{ width: 100%;}
+}
+
+@media  (min-width: 320px) and (max-width: 399px){
+ #logo {margin: 0 auto;  width: 60%;}
+ .click-link{ font-size: 14px;} 
+ .sub-head{ font-size: 30px;}
+ .feature-detail ul li{ width: 100%;}
+ .feature-headings p{ font-size: 14px;}
+ .feature-video{ margin: 20px 0 0;}
+ .box-wrap-in .sub-inner-head{ font-size: 14px;}
+ .box-wrap-in p{ font-size: 13px;}
+ .box-wrap .info{ width: 57%;}
+ .inner-bg {padding: 27px 0;} 
+.heading-bg{ font-size: 24px;}
+ 
+   
+}
