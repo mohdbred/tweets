@@ -363,7 +363,7 @@ ul, ol{ list-style: none; padding: 0; margin: 0;}
 img{ max-width: 100%;}
 .header-wrap{ width: 100%; float: left; position: relative; z-index: 1;}
 .header-top {background: #1f1f1f;border-bottom: 1px solid #292929;padding: 6px 0;}
-.header-bottom {background: #ffc9aa  none repeat scroll 0 0;padding: 12px 0;}
+.header-bottom {background: #d05141  none repeat scroll 0 0;padding: 12px 0;}
 .header-left > a {color: #47aad6;font-family: "open_sansregular";font-size: 15px;text-decoration: underline;}
 .sign-in a, .sign-up a, .account a, .logout a{border-right: 1px solid #484847;color: #c3c3c3;font-family: "open_sansregular";font-size: 15px;padding-left: 12px;padding-right: 12px;}
 .sign-up a, .logout a{color: #47aad6;}
@@ -1010,7 +1010,7 @@ footer {
 .project-wrapper{width:100%;height:30px;    color: #4E4EF5;}
 
 .header-title{
-    color: #606060;
+    color: #FFFFFF;
     font-family: "open_sansregular";
     font-size: 18px;
 }
